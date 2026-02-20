@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Virtual environment
+venv/
+env/
+.env
+.venv/
+
+# Temporary files
+temp/
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
